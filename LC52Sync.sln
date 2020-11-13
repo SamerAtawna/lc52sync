@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC52Sync", "LC52Sync\LC52Sync.csproj", "{39B19D8C-BF40-4C98-BE0C-842998E5AE3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B19D8C-BF40-4C98-BE0C-842998E5AE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B19D8C-BF40-4C98-BE0C-842998E5AE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B19D8C-BF40-4C98-BE0C-842998E5AE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B19D8C-BF40-4C98-BE0C-842998E5AE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DD5D23D-5C99-4A61-B055-3B4A39B7C683}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Samer\source\repos\LC52Sync\LC52Sync\bin\Debug\LC52Sync.exe.config
+C:\Users\Samer\source\repos\LC52Sync\LC52Sync\bin\Debug\LC52Sync.exe
+C:\Users\Samer\source\repos\LC52Sync\LC52Sync\bin\Debug\LC52Sync.pdb
+C:\Users\Samer\source\repos\LC52Sync\LC52Sync\obj\Debug\LC52Sync.csprojAssemblyReference.cache
+C:\Users\Samer\source\repos\LC52Sync\LC52Sync\obj\Debug\LC52Sync.Properties.Resources.resources
+C:\Users\Samer\source\repos\LC52Sync\LC52Sync\obj\Debug\LC52Sync.csproj.GenerateResource.cache
+C:\Users\Samer\source\repos\LC52Sync\LC52Sync\obj\Debug\LC52Sync.csproj.CoreCompileInputs.cache
+C:\Users\Samer\source\repos\LC52Sync\LC52Sync\obj\Debug\LC52Sync.exe
+C:\Users\Samer\source\repos\LC52Sync\LC52Sync\obj\Debug\LC52Sync.pdb
+C:\Users\Samer\source\repos\LC52Sync\LC52Sync\obj\Debug\LC52Sync.Form1.resources
